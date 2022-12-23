@@ -61,7 +61,7 @@
         <dependency>
             <groupId>org.kie</groupId>
             <artifactId>kie-ci</artifactId>
-            <version>6.4.0.Final</version>
+            <version>7.32.0.k20191220</version>
         </dependency>
         <dependency>
             <groupId>org.mongodb</groupId>
